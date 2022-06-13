@@ -1,2 +1,2 @@
-# Receitas-dieta-santander-primeiro-repositorio
-Desafio de projeto GIT
+# Desafio de Projeto sobre GIT/GITHUB
+Repositório criado para Desafio de projeto.
